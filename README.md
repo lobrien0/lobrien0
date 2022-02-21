@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ruby on Rails and Python
 - 📫 You can reach me via email at: lobrien@uccs.edu
 
-I am currently a 3rd year student at UCCS for Computer Security.
-I am very comfertable programing in C, C#, and Java
-I can program/script effectivly in python, bash, powershell
-I am still learning Python, C++, and PowerShell Scripting
+- I am currently a 3rd year student at UCCS for Computer Security.
+- I am very comfertable programing in C, C#, and Java
+- I can program/script effectivly in python, bash, powershell
+- I am still learning Python, C++, and PowerShell Scripting
