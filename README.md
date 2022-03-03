@@ -5,5 +5,5 @@
 
 - I am currently a 3rd year student at UCCS for Computer Security.
 - I am very comfertable programing in C, C#, and Java
-- I can program/script effectivly in python, bash, powershell
+- I can program/script effectivly in python, unix/bash, powershell
 - I am still learning Python, C++, and PowerShell Scripting
