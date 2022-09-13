@@ -6,4 +6,4 @@
 - I am currently a 4th year student at UCCS for Computer Security.
 - I am very comfortable programing in C, C#, C++, Java, and Python
 - I can script effectivly in Unix/Bash
-- I am still learning Python and PowerShell Scripting
+- I am still learning Bash and PowerShell Scripting
