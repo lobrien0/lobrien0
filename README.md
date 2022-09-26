@@ -1,9 +1,37 @@
-- 👋 Hi, I’m @skymotic otherwise known as Luke
-- 👀 I’m interested in Gaming, Computer Science, Networking and Security
-- 🌱 I’m currently and forever improving my linux skills
-- 📫 You can reach me via email at: lobrien@uccs.edu
+# Get to know me
 
-- I am currently a 4th year student at UCCS for Computer Security.
-- I am very comfortable programing in C, C#, C++, Java, and Python
-- I can script effectivly in Unix/Bash
-- I am still learning Bash and PowerShell Scripting
+- 👋 Hi, I’m @skymotic otherwise known as Luke  
+- 🌱 I’m currently a 4th year student at UCCS getting my degree in Computer Security  
+- 📫 You can reach me via email at: lobrien@uccs.edu  
+
+## Can I program?
+
+As with anyone I am still learning, and forever will be. Keep that in mind.
+
+### Skilled w/ Languages
+
+1. C, C++, C#
+
+2. Java
+
+3. Python
+
+### Comfortable w/ Language
+
+1. HTML / CSS
+
+2. Bash 
+
+### Still Learning (not super comfortable w/)
+
+1. Aarch64 Assembly
+
+2. x86_64 Assembly
+
+3. PHP
+
+### Wanna Start Learning
+
+1. Dart
+
+2. JavaScript
