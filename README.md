@@ -18,9 +18,7 @@ As with anyone I am still learning, and forever will be. Keep that in mind.
 
 ### Comfortable w/ Language
 
-1. HTML / CSS
-
-2. Bash 
+1. Bash 
 
 ### Still Learning (not super comfortable w/)
 
@@ -29,6 +27,8 @@ As with anyone I am still learning, and forever will be. Keep that in mind.
 2. x86_64 Assembly
 
 3. PHP
+
+4. HTML / CSS
 
 ### Wanna Start Learning
 
