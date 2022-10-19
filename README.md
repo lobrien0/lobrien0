@@ -26,9 +26,7 @@ As with anyone I am still learning, and forever will be. Keep that in mind.
 
 2. x86_64 Assembly
 
-3. PHP
-
-4. HTML / CSS
+3. HTML / CSS
 
 ### Wanna Start Learning
 
