@@ -26,10 +26,10 @@ As with anyone I am still learning, and forever will be. Keep that in mind.
 
 2. x86_64 Assembly
 
-3. HTML / CSS
+3. HTML / CSS / Javascript
 
 ### Wanna Start Learning
 
 1. Dart
 
-2. JavaScript
+2. React
