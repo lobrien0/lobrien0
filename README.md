@@ -15,6 +15,8 @@ Since then I have gained knowledge and skills throughout college, but even more 
 
 ## My Projects
 
+#### Self-Hosting
+
 I host a small server running a Type 1 Hypervisor (ProxMox) as the Base OS  
 Here I can create Virtual Environments to test, break, and then fix any app or service I made or am testing out.
 A large part of what I work with is further virtualized in Docker Containers for ease and portability.
@@ -24,10 +26,18 @@ This space also gives me the opportunity to work with several different operatin
 More about my setup:  
 [![KB](https://img.shields.io/static/v1.svg?color=cccccc&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=KnowledgeBase&message=AllOfSky.com&logo=BookStack)](https://kb.allofsky.com/ "A Personal, self hosted KB")
 
+#### Code Projects
+
+I am always tinkering with some kind of tool or program to help make things easier for myself and hopefully others.  
+Normally the projects I choose are more based on what I find difficult in the programming space. So I will learn as much about said topic as I can and create a layer of abstraction to simplify the use.  
+A good example of this could be my Auto-Sockets built for C
+
+[![DockerTools](https://img.shields.io/static/v1.svg?color=891f8b&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=&message=Auto-Sockets&logo=C)](https://github.com/skymotic/C-Autosocket "Automated Sockets for C")
+
 ## Coding Languages
 
 Below is a chart of the languages I am most comfortable with.  
-Anything at or below ⭐(3x), but listed below, is something I am actively learning more about. 
+Anything ⭐(3x) or below, is something I am actively learning more about. 
 
 | Language | level (5 stars) |
 |-|-:|
