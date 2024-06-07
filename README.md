@@ -33,7 +33,6 @@ A good example of this could be my Auto-Sockets built for C
 ## Coding Languages
 
 Below is a chart of the languages I am most comfortable with.  
-Anything ⭐(3x) or below, is something I am actively learning more about. 
 
 | Language | level (5 stars) |
 |-|-:|
@@ -44,9 +43,6 @@ Anything ⭐(3x) or below, is something I am actively learning more about.
 | HTML | ⭐⭐⭐ |
 | CSS | ⭐⭐⭐ |
 | Bash | ⭐⭐⭐ |
-| Java | ⭐⭐ |
-| JavaScript | ⭐⭐ |
-| PowerShell | ⭐ |
  
  # Contact
 
